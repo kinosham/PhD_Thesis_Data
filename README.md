@@ -1,2 +1,2 @@
 # PhD_Thesis_Data
-Supplementary tables and figures 
+Supplementary Tables and Figures 
